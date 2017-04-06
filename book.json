@@ -21,7 +21,7 @@
             "gitbookConfigURL": "http://rawgit.com/GeekyAnts/native-base-market-ecommerce-pro-docs-ui/master/book.json",
             "options": [
                 {
-                    "value": "http://http://docs.market.nativebase.io/react-native-ecommerce-pro-app-ui/",
+                    "value": "http://docs.market.nativebase.io/react-native-ecommerce-pro-app-ui/",
                     "text": "v1.0.0"
                 }
             ]
