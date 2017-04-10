@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Technologies](./docs/common/technologies.md)
 * [Installation](./docs/common/installation.md)
-* [Exponent](./docs/react-native-ecommerce-pro/exponent.md)
 * [Guide](./docs/common/guide.md)
   * [Customize](./docs/common/guide/customize.md)
 * [Packages](./docs/react-native-ecommerce-pro/packages.md)
