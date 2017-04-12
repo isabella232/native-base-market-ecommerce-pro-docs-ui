@@ -1,1 +1,1 @@
-{% include "./docs/react-native-ecommerce-pro/packages.md" %}
+{% include "./docs/packages.md" %}

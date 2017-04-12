@@ -1,10 +1,21 @@
 ### Release Notes
 
+### 2.0.0
+
+#### New Features
+
+*   Used [**Create React Native App**](https://github.com/react-community/create-react-native-app)
+
+#### Upgraded Features
+
+*   Upgraded to [React Native](https://github.com/facebook/react-native) 0.42.3
+
+* * *
+
 ### 1.0.0
 
 #### Features
 
-*   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
 *   Integrated [reazy](https://github.com/GeekyAnts/reazy) 0.0.3
 *   Integrated [Reazy Native Router Actions](https://github.com/GeekyAnts/reazy) 0.0.2
 *   Integrated [React](https://facebook.github.io/react/) 15.4.1

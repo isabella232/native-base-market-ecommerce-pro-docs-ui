@@ -5,8 +5,24 @@ _package.json_
 <pre class="line-numbers"><code class="language-json">
 {
   "name": "StrapEcommerce",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
+  "dependencies": {
+    "expo": "^15.1.0",
+    "react": "~15.4.0",
+    "react-native": "0.42.3",
+    "mobx": "^3.0.0",
+    "mobx-react": "^4.1.0",
+    "native-base": "^2.1.0-rc.2",
+    "react-native-parallax-scroll-view": "^0.19.0",
+    "react-native-router-flux": "^3.37.0",
+    "react-native-swiper": "^1.5.4",
+    "react-native-tab-view": "0.0.52",
+    "reazy": "0.0.3",
+    "reazy-native-router-actions": "0.0.2",
+    "simple-line-icons": "^2.4.1",
+    "@expo/vector-icons": "~4.0.0"
+  },
   "devDependencies": {
     "react-native-scripts": "0.0.26",
     "jest-expo": "^0.3.0",
@@ -28,20 +44,4 @@ _package.json_
   "jest": {
     "preset": "jest-expo"
   },
-  "dependencies": {
-    "expo": "^15.1.0",
-    "react": "~15.4.0",
-    "react-native": "0.42.3",
-    "mobx": "^3.0.0",
-    "mobx-react": "^4.1.0",
-    "native-base": "^2.1.0-rc.2",
-    "react-native-parallax-scroll-view": "^0.19.0",
-    "react-native-router-flux": "^3.37.0",
-    "react-native-swiper": "^1.5.4",
-    "react-native-tab-view": "0.0.52",
-    "reazy": "0.0.3",
-    "reazy-native-router-actions": "0.0.2",
-    "simple-line-icons": "^2.4.1",
-    "@expo/vector-icons": "~4.0.0"
-  }
 }</code></pre>
