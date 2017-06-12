@@ -1,13 +1,18 @@
 {
     "plugins": [
         "include-codeblock",
-        "ace"
+        "ace",
+        "edit-link"
     ],
     "title": "Ecommerce Pro Theme",
     "variables":{
       "options": "react-native-flat-app-theme"
        },
     "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/GeekyAnts/native-base-market-ecommerce-pro-docs-ui/tree/master",
+            "label": "Edit This Page"
+        },
         "include-codeblock": {
                 "template": "ace",
                 "unindent": true
